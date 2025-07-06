@@ -40,7 +40,7 @@ const value = ref("");
   <lwx-render-tsx :row="row" :scope="scope" />
   <lwx-input :placeholder="'请输入fff'" v-model="value" />
   <!-- <LwxButton /> -->
-  <!-- <LwxInput /> -->
+  <LwxInput />
   <!-- <lwx-input /> -->
 </template>
 
